@@ -10,7 +10,7 @@ sites:
     url: blog.zhiu.dev
     ipv6: true
   - name: Short Link
-    url: i.zhiu.dev
+    url: l.zhiu.dev/healthz
     ipv6: true
   - name: Cloud Drive
     url: cloud.zhiu.dev
