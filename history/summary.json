@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "short-link",
     "status": "up",
-    "uptime": "1.69%",
-    "uptimeDay": "1.69%",
-    "uptimeWeek": "1.69%",
-    "uptimeMonth": "1.69%",
-    "uptimeYear": "1.69%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 917,
     "timeDay": 917,
     "timeWeek": 917,
     "timeMonth": 917,
     "timeYear": 917,
-    "dailyMinutesDown": {
-      "2026-02-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud Drive",
